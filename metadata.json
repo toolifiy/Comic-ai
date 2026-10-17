@@ -1,0 +1,6 @@
+{
+  "name": "ComixFlow AI",
+  "description": "AI Comic Director & Creator Studio powered by Gemini & Google Flow",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
